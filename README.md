@@ -22,10 +22,10 @@ Total records: 1,123
 
 ## Research Questions
 
-1. What complaint issues occur most frequently among Virginia credit card consumers?
-2. Which companies receive the most credit card complaints from Virginia consumers?
-3. How do Virginia credit card complaint volumes change over time?
-4. What themes appear most often in narratives submitted by Virginia credit card consumers?
+1. Which companies received the most credit card complaints from Virginia consumers?
+2. What complaint issues occurred most frequently among Virginia credit card consumers?
+3. How did complaint volume change over time?
+4. What themes appear most frequently in consumer complaint narratives?
 
 ## Methods
 
