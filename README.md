@@ -2,7 +2,7 @@
 
 ## Overview
 
-This analysis examines more than 1,000 credit card complaints submitted by Virginia consumers to the Consumer Financial Protection Bureau (CFPB) between August 2025 and August 2026. The goal is to identify trends and patterns in consumer complaints to better understand the issues Virginia consumers experience with credit card products and services.
+This analysis examines 1,000+ credit card complaints submitted by Virginia consumers to the Consumer Financial Protection Bureau (CFPB) between August 2025 and August 2026. The goal is to identify trends and patterns in consumer complaints to better understand the issues Virginia consumers experience with credit card products and services.
 
 ## Objectives
 
