@@ -2,14 +2,14 @@
 
 ## Overview
 
-This analysis examines 1,000+ credit card complaints submitted by Virginia consumers to the Consumer Financial Protection Bureau (CFPB) between August 2025 and August 2026. The goal is to identify trends and patterns in consumer complaints to better understand the issues Virginia consumers experience with credit card products and services.
+This analysis examines 1,000+ credit card-related complaints submitted by Virginia consumers to the Consumer Financial Protection Bureau (CFPB) between August 2025 and August 2026. The goal is to identify trends and patterns in consumer complaints to better understand the issues Virginia consumers experience with credit card products and services and the companies most frequently associated with those concerns.
 
 ## Objectives
 
 The objectives of this analysis are to:
 
-- Identify the companies that received the highest number of credit card complaints from Virginia consumers.
-- Determine the most common credit card complaint issues and categories.
+- Identify the companies most frequently associated with credit card-related complaints from Virginia consumers.
+- Determine the most common complaint issues and categories reported to the CFPB.
 - Analyze how complaint volume changed over the study period.
 - Examine complaint narratives to identify recurring themes and consumer concerns.
 
@@ -27,10 +27,10 @@ Total records: 1,123
 
 ## Research Questions
 
-1. Which companies received the most credit card complaints from Virginia consumers?
-2. What complaint issues occurred most frequently among Virginia credit card consumers?
-3. How did complaint volume change over time?
-4. What themes appear most frequently in consumer complaint narratives?
+1. Which companies were most frequently associated with credit card-related complaints from Virginia consumers?
+2. What complaint issues occurred most frequently among Virginia consumers?
+3. How did complaint volume change over the study period?
+4. What themes appeared most frequently in consumer complaint narratives?
 
 ## Methods
 
