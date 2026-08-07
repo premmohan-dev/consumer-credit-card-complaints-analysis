@@ -1,12 +1,17 @@
 # Virginia Consumer Credit Card Complaints Analysis
 
-## Project Overview
+## Overview
 
-This project analyzes 1,123 credit card complaints submitted by Virginia consumers to the Consumer Financial Protection Bureau (CFPB) between August 2025 and August 2026.
+This analysis examines more than 1,000 credit card complaints submitted by Virginia consumers to the Consumer Financial Protection Bureau (CFPB) between August 2025 and August 2026. The goal is to identify trends and patterns in consumer complaints to better understand the issues Virginia consumers experience with credit card products and services.
 
 ## Objectives
 
-This project examines credit card complaints submitted by Virginia consumers to identify common trends, issues, and patterns within the consumer credit card market. The analysis aims to provide insights into complaint frequency, complaint categories, and the companies most frequently associated with consumer concerns.
+The objectives of this analysis are to:
+
+- Identify the financial institutions that received the highest number of credit card complaints from Virginia consumers.
+- Determine the most common credit card complaint issues and categories.
+- Analyze how complaint volume changed over the study period.
+- Examine complaint narratives to identify recurring themes and consumer concerns.
 
 ## Dataset
 
