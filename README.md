@@ -8,7 +8,7 @@ This analysis examines 1,000+ credit card complaints submitted by Virginia consu
 
 The objectives of this analysis are to:
 
-- Identify the financial institutions that received the highest number of credit card complaints from Virginia consumers.
+- Identify the companies that received the highest number of credit card complaints from Virginia consumers.
 - Determine the most common credit card complaint issues and categories.
 - Analyze how complaint volume changed over the study period.
 - Examine complaint narratives to identify recurring themes and consumer concerns.
