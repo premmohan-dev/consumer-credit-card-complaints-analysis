@@ -11,3 +11,9 @@ CITIBANK, N.A. received the highest number of credit card-related complaints fro
 ## Research Question 2
 
 ### What complaint issues occurred most frequently among Virginia consumers?
+
+<img width="1202" height="591" alt="top_issues" src="https://github.com/user-attachments/assets/ef3af21a-19e9-40d7-8ae0-ea3013c24ba2" />
+
+### Key Findings
+
+Complaints related to purchases shown on consumer statements were the most frequently reported issue, with 299 complaints. Incorrect information on credit reports followed closely behind with 264 complaints. These two categories accounted for a large share of all complaints submitted during the study period. Concerns involving account features, fees or interest charges, and credit card applications were also reported but at much lower rates.
