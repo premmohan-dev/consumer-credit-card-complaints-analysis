@@ -94,9 +94,9 @@ Payment issues were the most common topic discussed in consumer complaints, with
 
 > Note: Analysis files are currently under development and will be added as the project progresses.
 
-## SQL Analysis
+## SQL and Python Workflow
 
-SQL was used to identify the companies and complaint issues most frequently reported by Virginia consumers and to measure complaint volume over time. Query files can be found in the "sql" folder.
+SQL was used to extract and summarize complaint data. Python was then used to perform further analysis and generate visualizations used throughout the project.
 
 ## Conclusion
 
