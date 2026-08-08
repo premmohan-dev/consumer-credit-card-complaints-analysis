@@ -1,7 +1,7 @@
 SELECT
     Issue,
     COUNT(*) AS Complaint_Count
-FROM complain*s
+FROM complaints
 GROUP BY Issue
-ORDER BY Complain*_Count DESC
+ORDER BY Complaint_Count DESC
 LIMIT 10;
