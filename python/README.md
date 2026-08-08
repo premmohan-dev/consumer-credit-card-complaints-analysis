@@ -2,7 +2,7 @@
 
 ### Which companies received the most credit card complaints from Virginia consumers?
 
-<img width="976" height="485" alt="TopCompanies" src="https://github.com/user-attachments/assets/1d1b5fd2-f682-46bb-899a-f2a1dffb762f" />
+<img width="976" height="485" alt="top_companies" src="https://github.com/user-attachments/assets/b48844fd-b961-4cbb-a0c3-620a007d04f6" />
 
 ### Key Findings
 
@@ -25,3 +25,11 @@ Complaints related to purchases shown on consumer statements were the most frequ
 <img width="1189" height="590" alt="monthly_complaints" src="https://github.com/user-attachments/assets/170c01bd-27de-419b-97f8-5c56bbea486b" />
 
 Virginia consumers submitted the most complaints in September 2025 (194 complaints) and October 2025 (189 complaints). After that, complaint volume generally decreased, although there was a small increase during the spring of 2026. By the end of the study period, monthly complaint totals had dropped to 32 complaints in June and 9 complaints in July. Overall, complaints were more common during the beginning of the study period than at the end.
+
+## Research Question 4
+
+### What themes appeared most frequently in consumer complaint narratives?
+
+<img width="1190" height="590" alt="common_themes" src="https://github.com/user-attachments/assets/2cb6e833-0ac1-40d5-adfd-075c5faaf135" />
+
+Payment issues were the most common topic discussed in consumer complaints, with 1,741 mentions. Consumers also frequently mentioned disputes (1,071), credit cards (850), fraud (598), and charges (503). These results show that many complaints involved payment problems, billing disputes, and concerns about fraudulent activity. The themes found in the complaint narratives were similar to the issues identified in the earlier parts of the analysis.
