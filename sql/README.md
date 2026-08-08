@@ -1,6 +1,6 @@
 # SQL Queries
 
-This folder contains SQL queries used to analyze the CFPB complaint dataset.
+This folder contains SQL queries that can be used to analyze the CFPB complaint dataset.
 
 Queries include:
 
