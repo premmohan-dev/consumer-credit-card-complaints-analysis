@@ -17,3 +17,11 @@ CITIBANK, N.A. received the highest number of credit card-related complaints fro
 ### Key Findings
 
 Complaints related to purchases shown on consumer statements were the most frequently reported issue, with 299 complaints. Incorrect information on credit reports followed closely behind with 264 complaints. These two categories accounted for a large share of all complaints submitted during the study period. Concerns involving account features, fees or interest charges, and credit card applications were also reported but at much lower rates.
+
+## Research Question 3
+
+### How did complaint volume change over the study period?
+
+<img width="1189" height="590" alt="monthly_complaints" src="https://github.com/user-attachments/assets/170c01bd-27de-419b-97f8-5c56bbea486b" />
+
+Virginia consumers submitted the most complaints in September 2025 (194 complaints) and October 2025 (189 complaints). After that, complaint volume generally decreased, although there was a small increase during the spring of 2026. By the end of the study period, monthly complaint totals had dropped to 32 complaints in June and 9 complaints in July. Overall, complaints were more common during the beginning of the study period than at the end.
