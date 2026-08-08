@@ -7,3 +7,7 @@
 ### Key Findings
 
 CITIBANK, N.A. received the highest number of credit card-related complaints from Virginia consumers, with approximately 130 complaints during the time period. EQUIFAX, INC., Experian Information Solutions Inc., and Capital One Financial Corporation each received more than 100 complaints. Complaint totals dropped noticeably after these top four companies, with most of the remaining organizations receiving fewer than 80 complaints. This suggests that consumer complaints were concentrated among a relatively small group of companies.
+
+## Research Question 2
+
+### What complaint issues occurred most frequently among Virginia consumers?
