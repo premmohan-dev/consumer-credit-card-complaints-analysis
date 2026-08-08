@@ -81,6 +81,8 @@ Payment issues were the most common topic discussed in consumer complaints, with
 
 - SQL
 - Python
+- Pandas
+- Matplotlib
 - Microsoft Excel
 - Github
 
@@ -91,8 +93,6 @@ Payment issues were the most common topic discussed in consumer complaints, with
 3. Run the SQL queries in the "SQL" folder to explore complaint trends and patterns.
 4. Execute the Python analysis notebook in the "Python" folder to generate summary statistics and visualizations.
 5. Review the generated charts and findings to identify common complaint issues, company trends, and narrative themes.
-
-> Note: Analysis files are currently under development and will be added as the project progresses.
 
 ## SQL and Python Workflow
 
