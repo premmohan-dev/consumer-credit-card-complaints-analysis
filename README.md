@@ -93,3 +93,7 @@ Payment issues were the most common topic discussed in consumer complaints, with
 5. Review the generated charts and findings to identify common complaint issues, company trends, and narrative themes.
 
 > Note: Analysis files are currently under development and will be added as the project progresses.
+
+## Conclusion
+
+This analysis examined 1,000+ credit card-related complaints submitted by Virginia consumers to the CFPB between August 2025 and August 2026. The results showed that complaints were concentrated among a small group of companies and were most often related to purchase disputes, credit reporting issues, and payment problems. Common themes found in complaint narratives included disputes, fraud, charges, and account management concerns. Overall, the project provides a clearer picture of the issues Virginia consumers reported most often during the study period.
