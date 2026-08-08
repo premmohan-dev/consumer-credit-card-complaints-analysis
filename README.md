@@ -94,9 +94,9 @@ Payment issues were the most common topic discussed in consumer complaints, with
 4. Execute the Python analysis notebook in the "Python" folder to generate summary statistics and visualizations.
 5. Review the generated charts and findings to identify common complaint issues, company trends, and narrative themes.
 
-## SQL and Python Workflow
+## SQL Analysis
 
-SQL was used to extract and summarize complaint data. Python was then used to perform further analysis and generate visualizations used throughout the project.
+SQL queries were created to answer the same research questions used throughout the analysis. While the findings and visualizations were generated using Python, the SQL queries demonstrate how the data could be analyzed in a database environment.
 
 ## Conclusion
 
