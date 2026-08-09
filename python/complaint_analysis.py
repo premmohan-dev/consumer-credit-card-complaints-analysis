@@ -1,6 +1,7 @@
 # Virginia Credit Card Complaints Analysis
-# Consumer Financial Protection Bureau (CFPB)
-# Virginia Complaints: August 2025 - August 2026
+
+# Author: Premsai Mohan
+# August 2026
 
 import pandas as pd
 import matplotlib.pyplot as plt
