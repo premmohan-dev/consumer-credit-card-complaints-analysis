@@ -1,7 +1,10 @@
-SELECT
+-- Research Question 2
+-- What complaint issues occurred most frequently among Virginia consumers?
+-- Purpose: Identifies the most common complaint issues reported by Virginia consumers.
+
+SELECT TOP 10
     Issue,
     COUNT(*) AS Complaint_Count
-FROM complaints
+FROM ConsumerComplaints
 GROUP BY Issue
-ORDER BY Complaint_Count DESC
-LIMIT 10;
+ORDER BY COUNT(*) DESC;
