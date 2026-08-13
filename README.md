@@ -90,7 +90,7 @@ Payment issues were the most common topic discussed in consumer complaints, with
 ## How to Use This Project
 
 1. Review the `Consumer Complaints.xlsx` dataset located in the `data` folder. This is the dataset used throughout the analysis.
-   > **Note:** Alternative datasets may be obtained from the CFPB Consumer Complaint Database using different filters. Results may vary depending on the selected data. To run the SQL queries exactly as written, import the dataset into Microsoft Access and create a table named `ConsumerComplaints`.
+   > **Note:** Alternative datasets can be obtained from the CFPB Consumer Complaint Database using different filters. Results may vary depending on the selected data. To run the SQL queries exactly as written, import the dataset into Microsoft Access and create a table named `ConsumerComplaints`.
 2. Run the SQL queries in the `sql` folder to explore complaint trends and patterns.
 3. Execute the Python analysis in the `python` folder to generate summary statistics, visualizations, and narrative theme analysis.
 4. Review the generated charts, tables, and findings to identify common complaint issues, company trends, complaint volume patterns, and recurring narrative themes.
