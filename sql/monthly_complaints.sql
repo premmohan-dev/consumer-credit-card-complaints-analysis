@@ -1,11 +1,15 @@
+-- Research Question 3
+-- How did complaint volume change over the study period?
+-- Purpose: Calculates monthly complaint volume over time.
+
 SELECT
-    YEAR([Date received]) AS Year,
-    MONTH([Date received]) AS Month,
+    LEFT([Date Received],4) AS ComplaintYear,
+    MID([Date Received],6,2) AS ComplaintMonth,
     COUNT(*) AS Complaint_Count
-FROM complaints
+FROM ConsumerComplaints
 GROUP BY
-    YEAR([Date received]),
-    MONTH([Date received])
+    LEFT([Date Received],4),
+    MID([Date Received],6,2)
 ORDER BY
-    Year,
-    Month;
+    LEFT([Date Received],4),
+    MID([Date Received],6,2);
