@@ -97,7 +97,7 @@ Payment issues were the most common topic discussed in consumer complaints, with
 
 ## SQL Analysis
 
-The SQL queries included in this project can be used to analyze the CFPB complaint dataset in a relational database environment. These queries were designed to answer the same research questions explored in the Python analysis, including identifying the companies and complaint issues most frequently reported by Virginia consumers and tracking complaint volume over time.
+The SQL queries included in this project can be used to analyze the CFPB complaint dataset in Microsoft Access. These queries support the same research questions explored in the Python analysis, including identifying the companies and complaint issues most frequently reported by Virginia consumers and tracking complaint volume over time. For the complaint narrative analysis, SQL was used to retrieve complaint narratives, while Python was used to identify recurring themes within the text.
 
 ## Conclusion
 
