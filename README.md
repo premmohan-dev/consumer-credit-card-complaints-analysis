@@ -93,7 +93,7 @@ The SQL queries included in this project can be used to analyze the CFPB complai
 
 ## Conclusion
 
-This analysis examined 1,000+ credit card-related complaints submitted by Virginia consumers to the CFPB between August 2025 and August 2026. The results showed that complaints were concentrated among a small group of companies and were most often related to purchase disputes, credit reporting issues, and payment problems. Common themes found in complaint narratives included disputes, fraud, charges, and account management concerns. Overall, the project provides a clearer picture of the issues Virginia consumers reported most often during the study period.
+This analysis examined 1,000+ credit card-related complaints submitted by Virginia consumers to the CFPB between August 2025 and August 2026. The results showed that complaints were concentrated among a small group of companies and most often involved purchase disputes, credit reporting issues, and payment problems. Common themes found in complaint narratives included disputes, fraud, charges, and account management concerns. Overall, the project provides a clearer picture of the issues Virginia consumers reported most often during the study period.
 
 ## How to Use This Project
 
