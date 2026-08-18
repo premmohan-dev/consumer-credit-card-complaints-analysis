@@ -87,14 +87,6 @@ Payment issues were the most common topic discussed in consumer complaints, with
 - Microsoft Access
 - Github
 
-## How to Use This Project
-
-1. Review the `Consumer Complaints.xlsx` dataset located in the `data` folder. This is the dataset used throughout the analysis.
-   > **Note:** Alternative datasets can be obtained from the CFPB Consumer Complaint Database using different filters. Results may vary depending on the selected data. To run the SQL queries exactly as written, import the dataset into Microsoft Access and create a table named `ConsumerComplaints`.
-2. Run the SQL queries in the `sql` folder to explore complaint trends and patterns.
-3. Execute the Python analysis in the `python` folder to generate summary statistics, visualizations, and narrative theme analysis.
-4. Review the generated charts, tables, and findings to identify common complaint issues, company trends, complaint volume patterns, and recurring narrative themes.
-
 ## SQL Analysis
 
 The SQL queries included in this project can be used to analyze the CFPB complaint dataset in Microsoft Access. These queries support the same research questions explored in the Python analysis, including identifying the companies and complaint issues most frequently reported by Virginia consumers and tracking complaint volume over time. For the complaint narrative analysis, SQL was used to retrieve complaint narratives, while Python was used to identify recurring themes within the text.
@@ -102,3 +94,11 @@ The SQL queries included in this project can be used to analyze the CFPB complai
 ## Conclusion
 
 This analysis examined 1,000+ credit card-related complaints submitted by Virginia consumers to the CFPB between August 2025 and August 2026. The results showed that complaints were concentrated among a small group of companies and were most often related to purchase disputes, credit reporting issues, and payment problems. Common themes found in complaint narratives included disputes, fraud, charges, and account management concerns. Overall, the project provides a clearer picture of the issues Virginia consumers reported most often during the study period.
+
+## How to Use This Project
+
+1. Review the `Consumer Complaints.xlsx` dataset located in the `data` folder. This is the dataset used throughout the analysis.
+   > **Note:** Alternative datasets can be obtained from the CFPB Consumer Complaint Database using different filters. Results may vary depending on the selected data. To run the SQL queries exactly as written, import the dataset into Microsoft Access and create a table named `ConsumerComplaints`.
+2. Run the SQL queries in the `sql` folder to explore complaint trends and patterns.
+3. Execute the Python analysis in the `python` folder to generate summary statistics, visualizations, and narrative theme analysis.
+4. Review the generated charts, tables, and findings to identify common complaint issues, company trends, complaint volume patterns, and recurring narrative themes.
